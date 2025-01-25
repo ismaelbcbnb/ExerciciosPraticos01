@@ -1,0 +1,14 @@
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/bin/Debug/net8.0/ExerciciosPraticos
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/bin/Debug/net8.0/ExerciciosPraticos.deps.json
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/bin/Debug/net8.0/ExerciciosPraticos.runtimeconfig.json
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/bin/Debug/net8.0/ExerciciosPraticos.dll
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/bin/Debug/net8.0/ExerciciosPraticos.pdb
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.AssemblyInfoInputs.cache
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.AssemblyInfo.cs
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.csproj.CoreCompileInputs.cache
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.dll
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/refint/ExerciciosPraticos.dll
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.pdb
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ExerciciosPraticos.genruntimeconfig.cache
+/Users/ismaelcosta/RiderProjects/RocketSeat/ExerciciosPraticos/ExerciciosPraticos/obj/Debug/net8.0/ref/ExerciciosPraticos.dll
